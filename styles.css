@@ -1,0 +1,30 @@
+
+
+body {
+  background-color: #33ddff;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: Cooper Std;
+  font-size: 50px;
+}
+
+h2 {
+  color: #ffffff;
+}
+
+img  {
+  float: center;
+}
+
+.wrapper {
+  padding-right: 100px;
+  padding-left: 100px;
+  text-align: center
+}
+.max-width {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px;
