@@ -1,27 +1,26 @@
-
-
 body {
-  background-color: #33ddff;
+  background-color: #ffffff;
+  margin: 0px;
 }
-
 h1 {
   color: #ffffff;
   font-family: Cooper Std;
   font-size: 50px;
 }
-
 h2 {
   color: #ffffff;
 }
-
 img  {
   float: center;
 }
-
 .wrapper {
+  padding-top: 80px;
   padding-right: 100px;
   padding-left: 100px;
-  text-align: center
+  padding-bottom: 100px;
+  text-align: center;
+  background-color: #33ddff;
+  margin: 50px;
 }
 .max-width {
   max-width: 960px;
